@@ -1,0 +1,8 @@
+book_filename: "Notes"
+output_dir: "docs"
+new_theorems:
+  Thought: tho
+  Nugget: nug
+number_by:
+  prp: thm
+  nug: tho
