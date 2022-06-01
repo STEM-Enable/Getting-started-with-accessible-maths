@@ -29,3 +29,4 @@ you-can-create-this-directly-in-moodle
 moodle-support-throughout
 diagrams-software-etc.
 mathematical-diagrams-software-and-interactivedynamic-elements-including-e-assessment
+supporting-mathematicians
